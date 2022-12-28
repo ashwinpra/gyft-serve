@@ -10,7 +10,7 @@ SEM_BEGIN = build_event.generateIndiaTime(2023, 1, 3, 0, 0)
 
 MID_TERM_BEGIN = build_event.generateIndiaTime(2023, 2, 15, 0, 0)
 
-MID_TERM_END = build_event.generateIndiaTime(2023, 2, 324, 23, 59)
+MID_TERM_END = build_event.generateIndiaTime(2023, 2, 24, 23, 59)
 
 END_TERM_BEGIN = build_event.generateIndiaTime(2023, 4, 18, 0, 0)
 
